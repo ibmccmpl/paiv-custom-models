@@ -10,7 +10,7 @@ There are currently 2 examples, [__image classification__](./image_classificatio
 
 
 ## Who am I ?
-I'm [Maxime Deloche](https://www.linkedin.com/in/maximedeloche) and I work as a deep learning engineer in the Cognitive Systems Lab, at the [IBM Systems Center of Montpellier](https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml), France. Our team is providing pre-sales technical support to IBM teams, partners and customers interested in Power Systems based infrastruture for AI: including [PowerAI Vision, WMLCE, WMLA](https://developer.ibm.com/linuxonpower/deep-learning-powerai/)...
+I'm [Maxime Deloche](https://www.linkedin.com/in/maximedeloche) and I work as a deep learning engineer in the Cognitive Systems Lab, at the [IBM Systems Center of Montpellier](https://www.ibm.com/ibm/clientcenter/montpellier/index.shtml), France. Our team is providing pre-sales technical support to IBM teams, partners and customers in Europe who are interested in Power Systems based infrastruture for AI: including [PowerAI Vision, WMLCE, WMLA](https://developer.ibm.com/linuxonpower/deep-learning-powerai/)...
 
 > _For any question or assistance, feel free to contact me or open an issue, and we'll get back to you._
 
