@@ -5,7 +5,7 @@ This repository contains examples of custom models for
 
 It provides samples, explanations on how to use it, as well as some test files allowing to test models locally.
 
-There are currently 2 examples, [__image classification__](./image_classification/) and [__object detection__](./object_detection/). Both have been implemented in Keras and tested in PowerAI Vision 1.1.4.0 .
+There are currently 2 examples, [__image classification__](./image_classification/) and [__object detection__](./object_detection/). Both have been implemented in Keras and tested in PowerAI Vision 1.1.5.0.
 
 
 
@@ -74,13 +74,20 @@ To import a custom model in PowerAI Vision, you must build a `zip` file containi
 
 ### Import in PowerAI Vision
 
-To import a model in PAIV, put `train.py` and `deploy.py` in a zip file using:
+To import a model in PAIV, put `train.py` and `deploy.py` in a zip file, and upload that zip file in PAIV, section `Custom Assets`.
 
+> Note that object detection uses code in the SSD7/ directory that you have to include in the zip file as well.
+
+#### Image classification example
 ```bash
-zip -j model.zip src/train.py src/deploy.py
+zip ../model.zip train.py deploy.py
 ```
 
-and upload `model.zip` in PAIV, section `Custom Models`.
+#### Object detection example
+```bash
+zip -r ../model.zip train.py deploy.py SSD7/
+```
+
 
 ### Content
 
