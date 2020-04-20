@@ -1,3 +1,3 @@
-# PowerAI Vision / IBM Visual Insights - Custom Models
+# IBM Visual Insights - Custom Models
 
-This repository has been moved to https://github.com/IBMSystemsCenterMontpellier/visual-insights-custom-models.
+This repository has been moved to https://github.com/IBM/visual-insights-custom-models.
